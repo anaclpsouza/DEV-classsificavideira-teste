@@ -7,4 +7,5 @@ def main():
 
     st.write("# Classifica Folhas de Videiras")
 
-    if __name__ == "__main__": main()
+    
+if __name__ == "__main__": main()
