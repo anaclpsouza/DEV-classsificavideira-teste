@@ -2,5 +2,5 @@ tensorflow
 gdown
 numpy
 io
-ploty
+plotly
 pilow
