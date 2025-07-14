@@ -1,0 +1,6 @@
+tensorflow
+gdown
+numpy
+io
+ploty
+pilow
