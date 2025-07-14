@@ -1,6 +1,7 @@
 tensorflow
 gdown
 numpy
-io
 plotly
-pilow
+pillow
+pandas 
+streamlit
