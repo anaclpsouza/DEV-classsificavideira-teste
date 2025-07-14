@@ -4,7 +4,7 @@ import tensorflow as tf
 import io
 from PIL import Image
 import pandas as pd
-import ploty.express as px
+import plotly.express as px
 import numpy as np
 
 @st.cache_resource
