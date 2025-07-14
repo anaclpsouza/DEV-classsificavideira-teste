@@ -16,7 +16,7 @@ def carrega_modelo():
 
     interpreter = tf.lite.Interpreter(model_path='modelo_quantizado16bits.tflite')
 
-    interpreter.alocate_tensors()
+    interpreter.allocate_tensors()
 
     return interpreter
 
