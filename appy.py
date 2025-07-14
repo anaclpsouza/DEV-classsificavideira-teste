@@ -82,6 +82,8 @@ def main():
 
     image = load_image()
 
+    previsao(interpreter, image)
+
 
     
 if __name__ == "__main__": main()
